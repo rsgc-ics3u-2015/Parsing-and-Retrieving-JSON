@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Page 1 – JSON Overview'/>
+        <page name='Page 2 – Reading JSON'/>
+        <page name='Page 3 – Parsing JSON'/>
+        <page name='Page 4 – Building a JSON String'/>
+        <page name='Page 5 - Parsing a JSON String'/>
+        <page name='Page 6 - Error Handling'/>
+        <page name='Page 7 - Your turn'/>
+    </pages>
+</playground>
