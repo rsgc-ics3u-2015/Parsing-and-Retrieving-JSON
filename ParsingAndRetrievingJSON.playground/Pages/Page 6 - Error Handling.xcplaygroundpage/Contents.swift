@@ -8,7 +8,7 @@ import Foundation
 var example : String = "{ \"names\" : ["
 example += "\"Gilbert\","
 example += "\"Alex\","
-example += "\"Mark\","
+example += "\"Mark\""
 example += "]}"
 
 // Encode the string as an NSData object

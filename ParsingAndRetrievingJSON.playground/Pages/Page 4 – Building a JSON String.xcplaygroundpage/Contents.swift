@@ -22,6 +22,6 @@ import Foundation
 var example : String = "{ \"names\" : ["
 example += "\"Gilbert\","
 example += "\"Alex\","
-example += "\"Mark\","
+example += "\"Mark\""
 example += "]}"
 //: [Next](@next)

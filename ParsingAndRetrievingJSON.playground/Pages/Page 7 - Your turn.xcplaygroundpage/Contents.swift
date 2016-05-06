@@ -14,7 +14,7 @@
         {
             "firstName" : "Will",
             "lastName"  : "Graham"
-        },
+        }
     ]}
 
  ## Exercise

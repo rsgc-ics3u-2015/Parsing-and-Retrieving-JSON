@@ -11,7 +11,7 @@
         {
             "firstName" : "Will",
             "lastName"  : "Graham"
-        },
+        }
     ]}
  
  From the top, there is a single object named *students*.
